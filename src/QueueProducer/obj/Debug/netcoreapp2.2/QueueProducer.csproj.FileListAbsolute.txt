@@ -1,0 +1,11 @@
+/Users/ari/Code/dotnet/solace/src/QueueProducer/bin/Debug/netcoreapp2.2/QueueProducer.deps.json
+/Users/ari/Code/dotnet/solace/src/QueueProducer/bin/Debug/netcoreapp2.2/QueueProducer.runtimeconfig.json
+/Users/ari/Code/dotnet/solace/src/QueueProducer/bin/Debug/netcoreapp2.2/QueueProducer.runtimeconfig.dev.json
+/Users/ari/Code/dotnet/solace/src/QueueProducer/bin/Debug/netcoreapp2.2/QueueProducer.dll
+/Users/ari/Code/dotnet/solace/src/QueueProducer/bin/Debug/netcoreapp2.2/QueueProducer.pdb
+/Users/ari/Code/dotnet/solace/src/QueueProducer/obj/Debug/netcoreapp2.2/QueueProducer.csprojAssemblyReference.cache
+/Users/ari/Code/dotnet/solace/src/QueueProducer/obj/Debug/netcoreapp2.2/QueueProducer.csproj.CoreCompileInputs.cache
+/Users/ari/Code/dotnet/solace/src/QueueProducer/obj/Debug/netcoreapp2.2/QueueProducer.AssemblyInfoInputs.cache
+/Users/ari/Code/dotnet/solace/src/QueueProducer/obj/Debug/netcoreapp2.2/QueueProducer.AssemblyInfo.cs
+/Users/ari/Code/dotnet/solace/src/QueueProducer/obj/Debug/netcoreapp2.2/QueueProducer.dll
+/Users/ari/Code/dotnet/solace/src/QueueProducer/obj/Debug/netcoreapp2.2/QueueProducer.pdb
