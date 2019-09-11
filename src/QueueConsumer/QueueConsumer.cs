@@ -73,6 +73,7 @@ namespace Tutorial
                 VPNName = VPNName,
                 UserName = UserName,
                 Password = Password,
+                CompressionLevel = 0, // 0..9 for more compression, but only usable against appliance
                 ReconnectRetries = DefaultReconnectRetries
             };
 
@@ -135,9 +136,9 @@ namespace Tutorial
                 // Expecting the message content as a binary attachment
                 Console.WriteLine("Message content: {0}", Encoding.ASCII.GetString(message.BinaryAttachment));
                 // ACK the message
-                Flow.Ack(message.ADMessageId);
+                //Flow.Ack(message.ADMessageId);
                 // finish the program
-                WaitEventWaitHandle.Set();
+                //WaitEventWaitHandle.Set();
             }
         }
 
